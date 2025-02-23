@@ -1,0 +1,7 @@
+20230000,123,john,student,3.8,Math3,CS213,CS241
+20231143,123,toffi,student,3.8,Math3,CS213,CS241,stat2
+20231134,123,twinkes,student,3.1125,Math3,CS213,CS241
+20231116,123,amr,student,3.28,Math3,CS213,CS241,DS
+20231015,123,george,student,4,Math3,CS213,CS241,CS112,CS485,IT211,IS211
+30341105,456,hala,teacher,N/A,DS,CS213
+admin,123,king,admin,N/A
